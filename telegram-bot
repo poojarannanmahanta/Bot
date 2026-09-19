@@ -1,1 +1,4 @@
-
+telegram-bot/
+├── bot.py
+├── requirements.txt
+└── .gitignore
